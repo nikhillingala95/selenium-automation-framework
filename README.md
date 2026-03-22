@@ -12,9 +12,9 @@ Automation testing framework built using Selenium WebDriver and Java.
 * Cross-browser testing (basic)
 
 **Path Flow**
-1. Clone repo
-2. Open in Eclipse/IntelliJ
-3. Run TestNG.xml
+* Clone repo
+* Open in Eclipse/IntelliJ
+* Run TestNG.xml
 
 **Outcome**
 Reduced manual testing effort and improved efficiency
