@@ -17,4 +17,5 @@ Automation testing framework built using Selenium WebDriver and Java.
 * Run TestNG.xml
 
 **Outcome**
+
 Reduced manual testing effort and improved efficiency
